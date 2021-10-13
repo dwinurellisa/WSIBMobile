@@ -2,6 +2,7 @@ Nama : Dwi Nur Ellisa
 NIM : E41200115
 TIF A
 ---------------------
+Berikut adalah output dari Tugas Minggu 4
 1. ListView
    <img width="299" alt="ListView1" src="https://user-images.githubusercontent.com/80302807/135959934-4287c03e-64ec-4751-8a18-c5ed52af059e.PNG">
    
@@ -13,3 +14,10 @@ TIF A
 
 4. RecyclerView
    <img width="299" alt="RecyclerView" src="https://user-images.githubusercontent.com/80302807/135961802-da9fc8ce-5e0a-4f88-9543-ac7627d2c7f3.PNG">
+
+
+Berikut adalah output dari Tugas Minggu 5
+   <img width="299" alt="Home" src="https://user-images.githubusercontent.com/80302807/137117503-ed156dbf-1818-4404-aceb-b8191c187633.PNG">
+
+   
+   
