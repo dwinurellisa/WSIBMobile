@@ -4,13 +4,13 @@ TIF A
 ---------------------
 Berikut adalah output dari Tugas Minggu 4
 1. ListView
-   <img width="299" alt="ListView1" src="https://user-images.githubusercontent.com/80302807/135959934-4287c03e-64ec-4751-8a18-c5ed52af059e.PNG">
+<img width="299" alt="ListView1" src="https://user-images.githubusercontent.com/80302807/135959934-4287c03e-64ec-4751-8a18-c5ed52af059e.PNG">
    
 2. Spinner
-   <img width="299" alt="Spinner" src="https://user-images.githubusercontent.com/80302807/135961126-91f2823c-f027-4ef6-b2ff-480d37ad0f05.PNG">
+<img width="299" alt="Spinner" src="https://user-images.githubusercontent.com/80302807/135961126-91f2823c-f027-4ef6-b2ff-480d37ad0f05.PNG">
    
 3. AutoComplete
-   <img width="299" alt="AutoComplete" src="https://user-images.githubusercontent.com/80302807/135961196-79e6e003-cddc-4479-9637-251c82633a0b.PNG">
+<img width="299" alt="AutoComplete" src="https://user-images.githubusercontent.com/80302807/135961196-79e6e003-cddc-4479-9637-251c82633a0b.PNG">
 
 4. RecyclerView
 
@@ -25,10 +25,13 @@ Berikut adalah output dari Tugas Minggu 5
 <img width="299" alt="Settings" src="https://user-images.githubusercontent.com/80302807/137117753-5d2b71b0-f455-4fdd-b689-aac0ebc3a263.PNG">
 <img width="299" alt="Profile" src="https://user-images.githubusercontent.com/80302807/137117943-4546893f-8724-4e3d-914d-35fb42317506.PNG">
 
+
 ------------------------------------------
 Berikut adalah output dari Tugas Minggu 6
 
 <img width="299" alt="implicit dan explicit" src="https://user-images.githubusercontent.com/80302807/137343656-19c61d91-fde5-4a9d-a2b9-266e8cf5a239.PNG">
+Implicit Intent App
+<img width="299" alt="implicit" src="https://user-images.githubusercontent.com/80302807/137344069-b6c95725-155c-4ed1-ba9f-dfa1a0da67b2.PNG">
 
 
 
