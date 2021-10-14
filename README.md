@@ -13,7 +13,6 @@ Berikut adalah output dari Tugas Minggu 4
 <img width="299" alt="AutoComplete" src="https://user-images.githubusercontent.com/80302807/135961196-79e6e003-cddc-4479-9637-251c82633a0b.PNG">
 
 4. RecyclerView
-
 <img width="299" alt="RecyclerView" src="https://user-images.githubusercontent.com/80302807/135961802-da9fc8ce-5e0a-4f88-9543-ac7627d2c7f3.PNG">
 
 
@@ -32,6 +31,8 @@ Berikut adalah output dari Tugas Minggu 6
 <img width="299" alt="implicit dan explicit" src="https://user-images.githubusercontent.com/80302807/137343656-19c61d91-fde5-4a9d-a2b9-266e8cf5a239.PNG">
 Implicit Intent App
 <img width="299" alt="implicit" src="https://user-images.githubusercontent.com/80302807/137344069-b6c95725-155c-4ed1-ba9f-dfa1a0da67b2.PNG">
+Explicit Intent App
+<img width="299" alt="Explicit" src="https://user-images.githubusercontent.com/80302807/137344371-aa91d56f-0a46-4924-b9cd-4723b2d4472b.PNG">
 
 
 
