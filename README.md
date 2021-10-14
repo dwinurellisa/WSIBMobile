@@ -24,5 +24,11 @@ Berikut adalah output dari Tugas Minggu 5
 <img width="299" alt="Settings" src="https://user-images.githubusercontent.com/80302807/137117753-5d2b71b0-f455-4fdd-b689-aac0ebc3a263.PNG">
 <img width="299" alt="Profile" src="https://user-images.githubusercontent.com/80302807/137117943-4546893f-8724-4e3d-914d-35fb42317506.PNG">
 
+------------------------------------------
+Berikut adalah output dari Tugas Minggu 6
+
+<img width="299" alt="implicit dan explicit" src="https://user-images.githubusercontent.com/80302807/137343656-19c61d91-fde5-4a9d-a2b9-266e8cf5a239.PNG">
+
+
    
    
