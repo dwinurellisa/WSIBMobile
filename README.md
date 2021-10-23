@@ -40,9 +40,13 @@ Hasil Implementasi Management File
 <img width="299" alt="3" src="https://user-images.githubusercontent.com/80302807/138555175-c79eea77-c9e2-4dd3-a782-62b7a687bc45.PNG">  <img width="299" alt="4" src="https://user-images.githubusercontent.com/80302807/138555185-a6875558-4481-44c9-b328-979d4f5d23be.PNG">
 
 Hasil Implementasi SQLite
+
 <img width="299" alt="5" src="https://user-images.githubusercontent.com/80302807/138555192-7ab7cfe9-e01b-4a90-9946-6a92dcee0bce.PNG">  <img width="299" alt="6" src="https://user-images.githubusercontent.com/80302807/138555349-312b2f8b-01d1-4875-b92f-d9c4e38c6d49.PNG">
 <img width="299" alt="7" src="https://user-images.githubusercontent.com/80302807/138555354-d069a77b-6086-4384-9fdd-20e5ab4a4912.PNG">  <img width="299" alt="8" src="https://user-images.githubusercontent.com/80302807/138555356-36e42fdc-e9be-46d3-9c61-558c2670809c.PNG">
+<img width="299" alt="9" src="https://user-images.githubusercontent.com/80302807/138555393-a0d0c387-8dac-46fa-aa24-9c7f1ce08cb0.PNG">
 
+
+-------------------------------------------------
 
 
 
