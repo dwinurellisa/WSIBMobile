@@ -35,6 +35,18 @@ Explicit Intent App
 <img width="299" alt="Explicit" src="https://user-images.githubusercontent.com/80302807/137344371-aa91d56f-0a46-4924-b9cd-4723b2d4472b.PNG">
 
 
+------------------------------------------
+Berikut adalah output dari Tugas Minggu 7
+
+Hasil Implementasi Management File
+<img width="299" alt="1" src="https://user-images.githubusercontent.com/80302807/138555164-76c1d144-0360-44e1-ac19-15623be1db6b.PNG">
+<img width="299" alt="2" src="https://user-images.githubusercontent.com/80302807/138555171-ce124979-969c-44e9-98ef-37fee1d6def4.PNG">
+<img width="299" alt="3" src="https://user-images.githubusercontent.com/80302807/138555175-c79eea77-c9e2-4dd3-a782-62b7a687bc45.PNG">
+<img width="299" alt="4" src="https://user-images.githubusercontent.com/80302807/138555185-a6875558-4481-44c9-b328-979d4f5d23be.PNG">
+Hasil Implementasi SQLite
+<img width="299" alt="5" src="https://user-images.githubusercontent.com/80302807/138555192-7ab7cfe9-e01b-4a90-9946-6a92dcee0bce.PNG">
+
+
 
    
    
