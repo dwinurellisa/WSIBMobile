@@ -51,6 +51,8 @@ Berikut adalah output dari Tugas Minggu 11
 
 <img width="299" alt="1" src="https://user-images.githubusercontent.com/80302807/142905800-a8da886d-5e8f-42c5-ae1d-11a04493c5a7.PNG"> <img width="299" alt="2a" src="https://user-images.githubusercontent.com/80302807/142905845-0521bff4-6353-4d1f-9f2f-ae93416e75f1.PNG">
 <img width="299" alt="3" src="https://user-images.githubusercontent.com/80302807/142907007-c5e0b358-0a7d-4847-ae6f-ade480e921fe.PNG"> <img width="299" alt="4" src="https://user-images.githubusercontent.com/80302807/142907034-e1d8ba3b-867c-4f6e-aea8-c6032e86778f.PNG">
+<img width="299" alt="5" src="https://user-images.githubusercontent.com/80302807/142907271-c68561f3-2b60-4bea-8ed9-d99e57dc8a3e.PNG"> <img width="299" alt="6" src="https://user-images.githubusercontent.com/80302807/142907307-e10480e4-4f28-4884-a308-b771a2c7b798.PNG">
+
 
 
 
